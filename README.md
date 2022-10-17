@@ -2,7 +2,7 @@
 
 ## Description
 
-As a student I want prework notes to be easily accessible and organized so that they can be read be read with ease. This Prework Study Guide was created for bootcamp students who were going through the prework and want prework notes to be structured on a webpage so that they can be stored for studying later. A coding bootcamp student can now easily follow along notes concerning the prework I learned some basic principles about HTML, CSS, Git, GitHub, and JavaScript as well as their significance in the web-development world.  
+As a student I want prework notes to be easily accessible and organized so that they can be read with ease. This Prework Study Guide was created for bootcamp students who were going through the prework and want prework notes to be structured on a webpage so that they can be stored for studying later. A coding bootcamp student can now easily follow along notes concerning the prework I learned some basic principles about HTML, CSS, Git, GitHub, and JavaScript as well as their significance in the web-development world.  
 
 ## Installation
 
